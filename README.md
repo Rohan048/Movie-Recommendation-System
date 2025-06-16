@@ -1,6 +1,6 @@
 # 🎬 FilmFinder - Smart Movie Recommendation System
 A web app built with Python and Streamlit that recommends movies similar to your choice. It uses machine learning techniques and the TMDB API to fetch movie posters and display intelligent suggestions.
-## 🔗 [Click here to try the live app](https://your-streamlit-link.streamlit.app)
+## 🔗 [Click here to try the live app](https://movie-recommendation-system-rohan04.streamlit.app/)
 ## 🔥 Preview
 
 ![image](https://github.com/user-attachments/assets/7e04bea9-9bae-4584-b957-308b31beeca2)
